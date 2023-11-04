@@ -40,5 +40,21 @@ header{
     MAIN
 */
 
+.container{
+    background-color: red;
+    margin: 25px 60px;
+    height: calc((100vh - 15px) - 10px );
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card{
+    margin: 5px;
+    width: calc((100vw / 4 )- 15px) ;
+}
+
+.immagine{
+    max-width: 100%;
+}
 
 
