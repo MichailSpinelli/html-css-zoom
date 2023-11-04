@@ -1,0 +1,44 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+/*
+    GENERAL
+*/
+
+body{
+    background-color: midnightblue;
+}
+
+/*
+    HEADER
+*/
+
+header{
+    margin-top: 15px;
+    color: white;
+    display: flex;
+    flex-direction: row-reverse;
+    margin-right: 5px;
+}
+
+.speaker{
+    padding: 5px;
+    border-radius: 15px;
+    background-color: gray;
+    margin-right: 5px;
+}
+
+.expand{
+    padding: 5px;
+    border-radius: 15px;
+    background-color: gray;
+}
+
+/*
+    MAIN
+*/
+
+
+
